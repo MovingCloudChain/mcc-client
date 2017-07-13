@@ -1,0 +1,9 @@
+{
+  "name": "Hello Test",
+  "link": "http://localhost:8888/master.zip",
+  "category": 1,
+  "description": "Hello",
+  "tags": "Hello",
+  "icon": "https://www.mcc.so/images/icon-ax.png",
+  "type": 0
+}
