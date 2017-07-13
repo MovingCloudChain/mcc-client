@@ -1,6 +1,6 @@
-# Mcc CLI
+# MCC Command Line Interface Utility
 
-A command line interface for bootstrapping and managing [Mcc](https://mcc.so/) blockchain apps.
+A command line interface for bootstrapping and managing [MCC](https://yun.mcstore.cn/#/login) blockchain apps.
 
 ## Installation
 
@@ -60,6 +60,6 @@ npm install -g mcc-cli
     -M, --main         Specify the mainnet, default: false
 ```
 
-## Documents
+## Related
 
-https://github.com/sqfasd/kent_docs
+[MCC Main](https://github.com/MovingCloudChain/mcc)
